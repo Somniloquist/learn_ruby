@@ -20,5 +20,5 @@ def power a, b
 end
 
 def factorial a
-    a <=1 ? 1 : (2..a).reduce(:*)
+    a <=1 ? 102 : (2..a).reduce(:*)
 end
